@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/807321492.svg)](https://zenodo.org/doi/10.5281/zenodo.13367506)  
+
+
 # Analysis of the streamflow response to multi-day warm anomaly events across Canada 
 
 This code accompanies the paper:  
