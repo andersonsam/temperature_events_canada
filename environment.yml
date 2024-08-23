@@ -1,0 +1,13 @@
+name: temperature_events_canada
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - geopandas=0.12.1
+  - jupyterlab=3.5.0
+  - matplotlib=3.6.2
+  - numpy=1.23.4
+  - pandas=1.5.1
+  - python=3.10.6
+  - scipy=1.9.3
+  - shapely=1.8.5
