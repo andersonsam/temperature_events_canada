@@ -2,7 +2,7 @@
 
 This code accompanies the paper:  
 
-Anderson, S. and Chartrand, S. "The streamflow response to multi-day warm anomaly events: Sensitivity to future warming and spatiotemporal variability by event magnitude" (2024, in review)  
+Anderson, S. and Chartrand, S. "The streamflow response to multi-day warm anomaly events: Sensitivity to future warming and spatiotemporal variability by event magnitude". Earth's Future. (2024)  
 
 This study identifies the streamflow repsonse to normal, warm, and hot temperature events from 1981 - 2020 across 868 basins in Canada.  Then, we use climate reanalysis data to understand how such streamflow responses are sensitive to warmer annual temperatures.  
 
